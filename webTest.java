@@ -7,7 +7,7 @@ import static net.sourceforge.jwebunit.junit.JWebUnit.*;
  *
  */
 
-public class hw12 {
+public class webTest{
 
     @Before
     public void prepare() {
