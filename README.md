@@ -1,2 +1,2 @@
 # JWebUnit_Website_Testing
-Simple test's using Junit and Jwebunit
+Simple tests using Junit and Jwebunit.
